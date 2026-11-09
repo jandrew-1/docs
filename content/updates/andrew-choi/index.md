@@ -6,4 +6,5 @@ I am building a Inkjet Microplotter, and I am also leading the Gen 2 fab to desi
 
 - Finished Designing PCB
 - All the parts for this project should be ordered!
-- 
+
+![PCB Microplotter after pour.] (img/PCB_Microplotter.png)
